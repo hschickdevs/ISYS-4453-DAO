@@ -8,3 +8,9 @@ I was instructed to create a DAO for the my Introduction to Blockchain Applicati
 
 ## View the DAO:
 [tally.xyz - ISYS 4453 Governance](https://www.tally.xyz/governance/eip155:80001:0x058eA9d2148cDcF18D1995fdB55f78f94897e658)
+
+___
+
+<div align='center'>
+  <img src='https://wordpressua.uark.edu/blockchain/files/2018/01/blockchain-new.png' alt='UARK BCoE'>
+<div/>
