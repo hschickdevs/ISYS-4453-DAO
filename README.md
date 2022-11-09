@@ -11,4 +11,7 @@ I was instructed to create a DAO for the my Introduction to Blockchain Applicati
 
 ___
 
-![UARK BCoE](https://wordpressua.uark.edu/blockchain/files/2018/01/blockchain-new.png)
+<div align='center'>
+  <img src='https://wordpressua.uark.edu/blockchain/files/2018/01/blockchain-new.png' alt='UARK BCoE'>
+<!-- ![UARK BCoE](https://wordpressua.uark.edu/blockchain/files/2018/01/blockchain-new.png) -->
+<div/>
